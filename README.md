@@ -4,7 +4,7 @@ A project to automatically start and stop AWS EC2 instances during business hour
 
 ## Architecture Diagram
 
-![Architecture Diagram](screenshots/architecture-diagram.png)
+![Architecture Diagram](screenshots/architecture-diagram.png.jpg)
 
 ## Project Overview
 
