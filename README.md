@@ -2,6 +2,10 @@
 
 A project to automatically start and stop AWS EC2 instances during business hours, helping save costs and improve cloud efficiency using **Python, Lambda, CloudWatch, IAM, and Terraform**.
 
+## Architecture Diagram
+
+![Architecture Diagram](screenshots/architecture-diagram.png)
+
 ## Project Overview
 
 This project automates EC2 instance management by:
